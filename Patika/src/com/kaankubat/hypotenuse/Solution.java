@@ -1,4 +1,4 @@
-package com.kaankubat.Hypotenuse;
+package com.kaankubat.hypotenuse;
 
 import java.util.Scanner;
 
