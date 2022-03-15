@@ -1,7 +1,6 @@
-package com.kaankubat.coderbyte.example3;
+package com.kaankubat.coderbyte.stepWalking;
 
 import java.util.*;
-import java.io.*;
 
 class Main {
 
